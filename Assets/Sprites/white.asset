@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e82f4de60d29b2640a64b292b893835b, type: 3}
-  m_Name: Oolong
+  m_Name: white
   m_EditorClassIdentifier: 
-  characterName: Oolong
-  description: a raccoon who's favorite milk tea is roasted oolong milk tea
-  portrait: {fileID: -2413806693520163455, guid: 74ee897e70e6df547bed9d74699a05c8, type: 3}
-  strength: 2
-  intelligence: 2
-  charisma: 3
+  characterName: white tea raccoon
+  description: a raccoon who's favorite tea is white tea
+  portrait: {fileID: 7482667652216324306, guid: 165ed65b3fd49da4eb3a22b77d77e911, type: 3}
+  strength: 3
+  intelligence: 4
+  charisma: 4
   knowledge: 4
